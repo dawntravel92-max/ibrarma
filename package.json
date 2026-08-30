@@ -1,0 +1,14 @@
+{
+  "name": "madrid-live",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cors": "^2.8.5",
+    "luxon": "^3.7.1"
+  }
+}
